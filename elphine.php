@@ -94,7 +94,7 @@ function showProjects($db) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crowdfunding Platform</title>
-    <link rel="stylesheet" href="finny.css">
+    <link rel="stylesheet" href="platformm.css">
 </head>
 <body>
     <!-- Header -->
